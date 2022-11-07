@@ -12,5 +12,6 @@ public class BaiThiActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bai_thi);
         Toast.makeText(this, "Đang test nè", Toast.LENGTH_SHORT).show();
+        //nothing
     }
 }
